@@ -1,2 +1,2 @@
-# meme_gen
+# maymay
 Online Meme Generator
